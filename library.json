@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "marcoschwartz/LiquidCrystal_I2C": "^1.1.4"
+    "marcoschwartz/LiquidCrystal_I2C": "^1.1.4",
+    "LCD_1602_RUS_ALL": "https://github.com/Tyrn/LCD_1602_RUS_ALL.git"
   },
   "frameworks": "*",
   "platforms": "*"
